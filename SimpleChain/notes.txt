@@ -1,0 +1,8 @@
+{//Block data model
+	"hash": "0",
+	"height": 1325438,
+	"body":[
+	],
+	"time": ,
+	"previousblockhash":" "
+	}
